@@ -37,9 +37,19 @@ section{
     font-size: 30px;
 }
 .top-banner{
-    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-image: url(images/shapes/Frame\ 58.jpg);
     background-size: 100%;
 }
 .top-p{
     font-size: 25px;
+}
+#am-image img{
+    width: 50%;
+    padding-left: 30%;
+}
+.about-banner{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-top: 100px;
 }
