@@ -27,6 +27,9 @@ section{
 #top-text{
     margin: 10% 0% 5% 15%;
 }
+#about-text{
+    margin: 10% 15% 5% 0%;
+}
 .order-button{
     text-decoration: none;
     background-image: linear-gradient(rgb(251, 122, 255),rgb(203, 15, 250));
