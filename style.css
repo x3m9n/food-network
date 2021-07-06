@@ -53,3 +53,30 @@ section{
     background-repeat: no-repeat;
     margin-top: 100px;
 }
+.my-rec{
+    text-align: center;
+    padding: 0px 500px;
+}
+.recipies{
+    margin-top: 100px;
+    display: initial;
+}
+#recipie-margin{
+    margin-top: 100px;
+}
+.food-info{
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 30px;
+    width: 25%;
+    padding:10px 10px 15px 10px
+}
+.food-info img{
+    width: 100%;
+}
+.foods{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 150px;
+}
