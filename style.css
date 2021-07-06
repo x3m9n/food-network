@@ -36,10 +36,6 @@ section{
     font-weight: 50;
     font-size: 30px;
 }
-.top-banner{
-    background-image: url(images/shapes/Frame\ 58.jpg);
-    background-size: 100%;
-}
 .top-p{
     font-size: 25px;
 }
@@ -79,4 +75,27 @@ section{
     margin-right: 10%;
     margin-top: 5%;
     margin-bottom: 150px;
+}
+.edit-numbers{
+    margin: 5% 10% 5% 10%;
+    text-align: center;
+}
+.social-info{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+footer div{
+    text-align: center;
+    background-color: black;
+}
+.net-color{
+    color: white;
+}
+.foot-p{
+    color: white;
+}
+.footer-edit{
+    padding: 50px 0px;
 }
