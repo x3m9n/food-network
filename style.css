@@ -1,0 +1,45 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+    margin: 0%;
+}
+.pink-color{
+    color: rgb(255, 72, 231);
+}
+section{
+    display: flex;
+}
+.top-banner-width{
+    width: 50%;
+}
+.top-banner-width img{
+    width: 100%;
+    padding-right: 10%;
+}
+#top-text{
+    margin: 10% 0% 5% 15%;
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(251, 122, 255),rgb(203, 15, 250));
+    padding: 20px 45px;
+    border-radius: 40px;
+    color: white;
+    font-weight: 50;
+    font-size: 30px;
+}
+.top-banner{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-size: 100%;
+}
+.top-p{
+    font-size: 25px;
+}
